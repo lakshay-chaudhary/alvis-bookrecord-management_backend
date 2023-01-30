@@ -1,0 +1,28 @@
+{
+  "name": "book-record-managment",
+  "version": "1.0.0",
+  "description": "book record managment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshay-chaudhary/book-recrod-.git"
+  },
+  "author": "lakshay chaudahry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshay-chaudhary/book-recrod-/issues"
+  },
+  "homepage": "https://github.com/lakshay-chaudhary/book-recrod-#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "moongose": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
